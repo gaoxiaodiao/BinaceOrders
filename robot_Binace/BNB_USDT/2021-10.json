@@ -1,0 +1,41 @@
+[
+    {
+        "info": {
+            "symbol": "BNBUSDT",
+            "orderId": "3135680207",
+            "orderListId": "-1",
+            "clientOrderId": "ios_89893165efd7426ba26c6cbfc6e91e60",
+            "price": "550.00000000",
+            "origQty": "2.00000000",
+            "executedQty": "0.00000000",
+            "cummulativeQuoteQty": "0.00000000",
+            "status": "NEW",
+            "timeInForce": "GTC",
+            "type": "LIMIT",
+            "side": "SELL",
+            "stopPrice": "0.00000000",
+            "icebergQty": "0.00000000",
+            "time": "1633850531983",
+            "updateTime": "1633850531983",
+            "isWorking": true,
+            "origQuoteOrderQty": "0.00000000"
+        },
+        "id": "3135680207",
+        "clientOrderId": "ios_89893165efd7426ba26c6cbfc6e91e60",
+        "timestamp": 1633850531983,
+        "datetime": "2021-10-10T07:22:11.983Z",
+        "symbol": "BNB/USDT",
+        "type": "limit",
+        "timeInForce": "GTC",
+        "postOnly": false,
+        "side": "sell",
+        "price": 550,
+        "amount": 2,
+        "cost": 0,
+        "filled": 0,
+        "remaining": 2,
+        "status": "open",
+        "trades": [],
+        "fees": []
+    }
+]
