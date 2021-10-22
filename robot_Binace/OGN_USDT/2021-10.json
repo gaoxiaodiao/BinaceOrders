@@ -9,14 +9,14 @@
             "origQty": "1739.00000000",
             "executedQty": "0.00000000",
             "cummulativeQuoteQty": "0.00000000",
-            "status": "NEW",
+            "status": "CANCELED",
             "timeInForce": "GTC",
             "type": "LIMIT",
             "side": "SELL",
             "stopPrice": "0.00000000",
             "icebergQty": "0.00000000",
             "time": "1633440722015",
-            "updateTime": "1633440722015",
+            "updateTime": "1634817055505",
             "isWorking": true,
             "origQuoteOrderQty": "0.00000000"
         },
@@ -34,7 +34,7 @@
         "cost": 0,
         "filled": 0,
         "remaining": 1739,
-        "status": "open",
+        "status": "canceled",
         "trades": [],
         "fees": []
     }
