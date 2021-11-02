@@ -1,0 +1,41 @@
+[
+    {
+        "info": {
+            "symbol": "OGNUSDT",
+            "orderId": "313146535",
+            "orderListId": "-1",
+            "clientOrderId": "ios_5232346c64b6467f81cd1a9e117edb7d",
+            "price": "1.10000000",
+            "origQty": "656.00000000",
+            "executedQty": "0.00000000",
+            "cummulativeQuoteQty": "0.00000000",
+            "status": "NEW",
+            "timeInForce": "GTC",
+            "type": "LIMIT",
+            "side": "SELL",
+            "stopPrice": "0.00000000",
+            "icebergQty": "0.00000000",
+            "time": "1635782565934",
+            "updateTime": "1635782565934",
+            "isWorking": true,
+            "origQuoteOrderQty": "0.00000000"
+        },
+        "id": "313146535",
+        "clientOrderId": "ios_5232346c64b6467f81cd1a9e117edb7d",
+        "timestamp": 1635782565934,
+        "datetime": "2021-11-01T16:02:45.934Z",
+        "symbol": "OGN/USDT",
+        "type": "limit",
+        "timeInForce": "GTC",
+        "postOnly": false,
+        "side": "sell",
+        "price": 1.1,
+        "amount": 656,
+        "cost": 0,
+        "filled": 0,
+        "remaining": 656,
+        "status": "open",
+        "trades": [],
+        "fees": []
+    }
+]
